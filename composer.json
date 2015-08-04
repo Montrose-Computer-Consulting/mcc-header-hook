@@ -1,0 +1,14 @@
+{
+    "name": "mcc/headerhook",
+    "description": "plugin for OctoberCMS to expose the header to twig",
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Geoff Oslund",
+            "email": "geoffreyoslund@gmail.com"
+        }
+    ]
+}
